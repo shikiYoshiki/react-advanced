@@ -6,7 +6,7 @@ export function Header() {
   return (
     <header>
       <nav>
-        <hi>{siteTitle}</hi>
+        <h1>{siteTitle}</h1>
         <ul>
           <li>
             <a href="#">HOME</a>
