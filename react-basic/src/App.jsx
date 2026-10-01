@@ -9,8 +9,8 @@ function App() {
 
   return (
     <>
-      <Header />
-      <MainContent />
+      <Header siteTitle={siteTitle} />
+      <MainContent siteTitle={siteTitle} currentYear={currentYear} />
       <Footer />
     </>
   );
