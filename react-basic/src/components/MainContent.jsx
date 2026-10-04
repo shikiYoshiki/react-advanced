@@ -1,4 +1,5 @@
 import React from "react";
+import { ContactForm } from "./ContactForm";
 
 const chapters = [
   "Reactの概要を理解しよう",
@@ -60,12 +61,15 @@ export function MainContent({ progress, setProgress }) {
         <h3>章一覧</h3>
         <ul style={{ textAlign: "left" }}>
           {chapters.map((chapterTitle, index) => (
-            <li key={ chapterKeys[index]}>
+            <li key={chapterKeys[index]}>
               {index + 1}章：{chapterTitle}
             </li>
           ))}
         </ul>
       </section>
+
+      {/* お問い合わせフォームを表示 */}
+      <ContactForm />
     </main>
   );
 }

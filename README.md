@@ -23,7 +23,7 @@
 
 | 教材 | タイトル | フォルダ |
 | --- | --- | --- |
-| Reactの基礎を学ぼう | 簡単なプロフィールカードを作ろう | react-profile-card  |
+| Reactの基礎を学ぼう | 簡単なプロフィールカードを作ろう | [react-profile-card](./react-profile-card/)  |
 | Reactの基礎を学ぼう | Reactで電卓アプリを作ろう |  |
 |  |  |  |
 |  |  |  |
