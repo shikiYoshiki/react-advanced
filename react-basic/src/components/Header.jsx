@@ -1,4 +1,5 @@
 import React from "react";
+import styles from "./Header.module.css";
 
 export function Header({ siteTitle = "サイト名未設定" }) {
   const handleClick = (event) => {
@@ -8,14 +9,14 @@ export function Header({ siteTitle = "サイト名未設定" }) {
     );
   };
   return (
-    <header>
+    <header className={styles.header}>
       <nav>
         <h1>{siteTitle}</h1>
-        <ul>
-          <li>
+        <ul className={styles.navList}>
+          <li className={styles.navItem}>
             <a href="#">HOME</a>
           </li>
-          <li>
+          <li className={styles.navItem}>
             <a href="#" onClick={handleClick}>
               会社概要
             </a>
