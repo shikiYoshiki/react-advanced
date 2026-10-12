@@ -8,7 +8,7 @@ function App() {
 
   const handleClick = () => {
     if (index + 1 < profiles.length) {
-      setIndex(index + 1);
+      setIndex((index) => index + 1);
     } else {
       setIndex(0);
     }
