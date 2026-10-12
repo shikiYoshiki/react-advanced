@@ -22,6 +22,7 @@ export function Calculator() {
     // 有効な式であるかチェック
     const match = expression.match(validExpression);
     if (!match) {
+      setDisplay("エラー");
       throw new Error("無効な式です。");
     }
 
