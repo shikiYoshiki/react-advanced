@@ -4,8 +4,8 @@
 
 ### カリキュラム
 
-1. [Reactの基礎を学ぼう](./react-basic/)
-1. [TypeScriptの基礎を学ぼう](#)
+1. [Reactの基礎を学ぼう](./react/)
+1. [TypeScriptの基礎を学ぼう](./typescript/)
 1. [データベースとSQLの基礎を学ぼう](#)
 1. [Node.jsの基礎を学ぼう](#)
 1. [HerokuでWebアプリをインターネット上に公開しよう](#)
