@@ -21,12 +21,14 @@
 
 ### 課題
 
-| 教材 | タイトル | フォルダ |
+| 教材 | タイトル | フォルダ / ファイル |
 | --- | --- | --- |
-| Reactの基礎を学ぼう | 簡単なプロフィールカードを作ろう | [react-profile-card](./react-profile-card/)  |
-| Reactの基礎を学ぼう | Reactで電卓アプリを作ろう |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Reactの基礎を学ぼう | 簡単なプロフィールカードを作ろう | [react-profile-card](./react/react-profile-card/)  |
+| Reactの基礎を学ぼう | Reactで電卓アプリを作ろう | [react-calculator-app](./react/react-calculator-app) |
+| TypeScriptの基礎を学ぼう | 生徒の合否を判定する型安全な関数を作ろう | [task-function.ts](./typescript/typescript-basic/src/task-function.ts) |
+| TypeScriptの基礎を学ぼう | ユーティリティ型を使って投稿アプリの型を設計しよう | [task-utility.ts](./typescript/typescript-basic/src/task-utility.ts) |
+|  |  | []() |
+|  |  | []() |
+|  |  | []() |
+
+
