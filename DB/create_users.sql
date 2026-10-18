@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS users (
+    id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR (256) NOT NULL,
+    furigana VARCHAR (256) NOT NULL,
+    email VARCHAR (256) NOT NULL,
+    age INT (11),
+    address VARCHAR (256)
+);
