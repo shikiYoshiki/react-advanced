@@ -6,8 +6,8 @@
 
 1. [Reactの基礎を学ぼう](./react/)
 1. [TypeScriptの基礎を学ぼう](./typescript/)
-1. [データベースとSQLの基礎を学ぼう](#)
-1. [Node.jsの基礎を学ぼう](#)
+1. [データベースとSQLの基礎を学ぼう](./DB/)
+1. [Node.jsの基礎を学ぼう](./nodejs/)
 1. [HerokuでWebアプリをインターネット上に公開しよう](#)
 1. [ReactとNode.jsでToDoアプリを作ろう](#)
 1. [Next.jsでECサイトを作ろう](#)
@@ -27,6 +27,10 @@
 | Reactの基礎を学ぼう | Reactで電卓アプリを作ろう | [react-calculator-app](./react/react-calculator-app) |
 | TypeScriptの基礎を学ぼう | 生徒の合否を判定する型安全な関数を作ろう | [task-function.ts](./typescript/typescript-basic/src/task-function.ts) |
 | TypeScriptの基礎を学ぼう | ユーティリティ型を使って投稿アプリの型を設計しよう | [task-utility.ts](./typescript/typescript-basic/src/task-utility.ts) |
+| Node.jsの基礎を学ぼう | 非同期処理で外部データを取得しよう | []() |
+| Node.jsの基礎を学ぼう | ToDoリストを管理するAPIを作ろう | []() |
+|  |  | []() |
+|  |  | []() |
 |  |  | []() |
 |  |  | []() |
 |  |  | []() |
